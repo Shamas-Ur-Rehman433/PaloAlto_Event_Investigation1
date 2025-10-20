@@ -1,4 +1,4 @@
-<img width="1076" height="449" alt="14" src="https://github.com/user-attachments/assets/e4b5d19f-ab68-4325-a7da-7b4336d4264f" /># PaloAlto_Event_Investigation1
+# PaloAlto_Event_Investigation1
 Dissecting and explaining every part of a Palo Alto Networks threat log entry for cybersecurity and SOC training.
 
 
